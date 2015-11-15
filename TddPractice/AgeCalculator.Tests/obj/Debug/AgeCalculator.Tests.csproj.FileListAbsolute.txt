@@ -1,0 +1,9 @@
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculator.Tests.dll
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculator.Tests.pdb
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\bin\Debug\nunit.framework.dll
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\bin\Debug\nunit.framework.xml
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\obj\Debug\AgeCalculator.Tests.dll
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\obj\Debug\AgeCalculator.Tests.pdb
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\obj\Debug\AgeCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\FRassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculatorKata.dll
+C:\Users\FRassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculatorKata.pdb

@@ -1,0 +1,4 @@
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculatorKata\bin\Debug\AgeCalculatorKata.dll
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculatorKata\bin\Debug\AgeCalculatorKata.pdb
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.dll
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.pdb

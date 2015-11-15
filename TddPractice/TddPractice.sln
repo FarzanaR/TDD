@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzKata", "FizzBuzzKata\FizzBuzzKata.csproj", "{ECA81497-46FD-4577-8126-FEE380BDC9EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzKata.Tests", "FizzBuzzKata.Tests\FizzBuzzKata.Tests.csproj", "{A8F2C17D-9063-46C1-AB8F-6B1F21836E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculatorKata", "AgeCalculatorKata\AgeCalculatorKata.csproj", "{38D464B1-FC29-4B9D-9F95-3495BDDDB830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculator.Tests", "AgeCalculator.Tests\AgeCalculator.Tests.csproj", "{F3383164-A20E-458A-9584-6CA0ACE12E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA81497-46FD-4577-8126-FEE380BDC9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA81497-46FD-4577-8126-FEE380BDC9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA81497-46FD-4577-8126-FEE380BDC9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA81497-46FD-4577-8126-FEE380BDC9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F2C17D-9063-46C1-AB8F-6B1F21836E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F2C17D-9063-46C1-AB8F-6B1F21836E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F2C17D-9063-46C1-AB8F-6B1F21836E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F2C17D-9063-46C1-AB8F-6B1F21836E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D464B1-FC29-4B9D-9F95-3495BDDDB830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D464B1-FC29-4B9D-9F95-3495BDDDB830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D464B1-FC29-4B9D-9F95-3495BDDDB830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D464B1-FC29-4B9D-9F95-3495BDDDB830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3383164-A20E-458A-9584-6CA0ACE12E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3383164-A20E-458A-9584-6CA0ACE12E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3383164-A20E-458A-9584-6CA0ACE12E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3383164-A20E-458A-9584-6CA0ACE12E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

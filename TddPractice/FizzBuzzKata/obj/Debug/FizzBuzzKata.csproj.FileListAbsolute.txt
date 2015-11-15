@@ -1,0 +1,4 @@
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata\bin\Debug\FizzBuzzKata.dll
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata\bin\Debug\FizzBuzzKata.pdb
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata\obj\Debug\FizzBuzzKata.dll
+c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
