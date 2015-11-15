@@ -2,3 +2,7 @@ c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculatorKata\bin\Debug\AgeCalculatorKata.pdb
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.dll
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculatorKata\bin\Debug\AgeCalculatorKata.dll
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculatorKata\bin\Debug\AgeCalculatorKata.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.dll
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculatorKata\obj\Debug\AgeCalculatorKata.pdb

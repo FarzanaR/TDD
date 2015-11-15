@@ -7,3 +7,12 @@ c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata.
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.csprojResolveAssemblyReference.cache
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.dll
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.Tests.dll
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.Tests.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.dll
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata.Tests\obj\Debug\FizzBuzzKata.Tests.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata.Tests\bin\Debug\FizzBuzzKata.exe

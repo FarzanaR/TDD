@@ -7,3 +7,12 @@ c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\obj\Debug\AgeCalculator.Tests.csprojResolveAssemblyReference.cache
 C:\Users\FRassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculatorKata.dll
 C:\Users\FRassul\documents\visual studio 2013\Projects\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculatorKata.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculator.Tests.dll
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculator.Tests.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculatorKata.dll
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculator.Tests\bin\Debug\AgeCalculatorKata.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculator.Tests\obj\Debug\AgeCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculator.Tests\obj\Debug\AgeCalculator.Tests.dll
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\AgeCalculator.Tests\obj\Debug\AgeCalculator.Tests.pdb

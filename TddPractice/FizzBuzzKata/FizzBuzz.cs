@@ -2,9 +2,18 @@
 {
     public class FizzBuzz
     {
-        public string CheckForFizz(int num)
+
+        public string CheckFizzBuzz(int num)
         {
-            if (IsMultipleOfThree(num))
+            if (IsMultipleOfFive(num) && IsMultipleOfThree(num))
+            {
+                return "FizzBuzz";
+            }
+            else if (IsMultipleOfFive(num))
+            {
+                return "Buzz";
+            }
+            else if (IsMultipleOfThree(num))
             {
                 return "Fizz";
             }
@@ -16,13 +25,9 @@
             return num % 3 == 0;
         }
 
-        public string CheckForBuzz(int num)
+        private static bool IsMultipleOfFive(int num)
         {
-            if (num == 1)
-            {
-                return "1";
-            }
-            return "Buzz";
+            return num % 5 == 0;
         }
     }
 }

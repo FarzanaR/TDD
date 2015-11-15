@@ -2,3 +2,8 @@ c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata\
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata\bin\Debug\FizzBuzzKata.pdb
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata\obj\Debug\FizzBuzzKata.dll
 c:\users\frassul\documents\visual studio 2013\Projects\TddPractice\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata\bin\Debug\FizzBuzzKata.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata\obj\Debug\FizzBuzzKata.csprojResolveAssemblyReference.cache
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata\bin\Debug\FizzBuzzKata.exe
+C:\Users\Farzana\Documents\GitHub\TDD\TddPractice\FizzBuzzKata\obj\Debug\FizzBuzzKata.exe

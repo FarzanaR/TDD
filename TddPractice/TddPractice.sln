@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzKata", "FizzBuzzKata\FizzBuzzKata.csproj", "{ECA81497-46FD-4577-8126-FEE380BDC9EF}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculatorKata", "AgeCalculatorKata\AgeCalculatorKata.csproj", "{38D464B1-FC29-4B9D-9F95-3495BDDDB830}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculator.Tests", "AgeCalculator.Tests\AgeCalculator.Tests.csproj", "{F3383164-A20E-458A-9584-6CA0ACE12E56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FizzBuzz", "FizzBuzz", "{5DC796E2-F754-4585-9E42-B196DC8A8383}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AgeCalculator", "AgeCalculator", "{DAAE086A-9A4A-4BE1-B05B-A67A1A6FDD15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +40,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ECA81497-46FD-4577-8126-FEE380BDC9EF} = {5DC796E2-F754-4585-9E42-B196DC8A8383}
+		{A8F2C17D-9063-46C1-AB8F-6B1F21836E1F} = {5DC796E2-F754-4585-9E42-B196DC8A8383}
+		{38D464B1-FC29-4B9D-9F95-3495BDDDB830} = {DAAE086A-9A4A-4BE1-B05B-A67A1A6FDD15}
+		{F3383164-A20E-458A-9584-6CA0ACE12E56} = {DAAE086A-9A4A-4BE1-B05B-A67A1A6FDD15}
 	EndGlobalSection
 EndGlobal
